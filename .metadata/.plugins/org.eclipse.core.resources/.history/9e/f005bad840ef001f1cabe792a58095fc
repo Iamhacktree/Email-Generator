@@ -1,0 +1,5 @@
+package com.Project.email_generator.controller;
+
+public class EmailGeneratorController {
+
+}

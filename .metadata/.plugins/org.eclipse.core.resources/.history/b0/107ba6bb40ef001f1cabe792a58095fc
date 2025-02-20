@@ -1,0 +1,5 @@
+package com.Project.email_generator.model;
+
+public class EmailRequest {
+
+}

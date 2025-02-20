@@ -1,0 +1,5 @@
+spring.application.name=email-generator
+
+# Gemini API Configuration
+spring.ai.vertex.ai.gemini.api.url=${GEMINI_URL:https://generativelanguage.googleapis.com/v1}
+spring.ai.vertex.ai.gemini.api.key=${GEMINI_API_KEY}
