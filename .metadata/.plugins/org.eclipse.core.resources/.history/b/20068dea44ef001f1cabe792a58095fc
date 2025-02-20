@@ -1,4 +1,0 @@
-spring.application.name=email-generator
-
-gemini.api.url=${GEMINI-URL}
-gemini.api.key=${GEMINI-URL}
